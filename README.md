@@ -1,6 +1,6 @@
 # Lorenz Attractor & Logistic Map Visualizer v3.0
 
-A modern, cross-platform scientific visualization tool for exploring chaotic dynamical systems including the famous Lorenz Attractor and Logistic Map with real-time animation capabilities.
+Scientific visualization tool for exploring chaotic dynamical systems including the famous Lorenz Attractor and Logistic Map with real-time animation capabilities.
 
 ![Version](https://img.shields.io/badge/version-3.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-green)
